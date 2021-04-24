@@ -1,4 +1,4 @@
-
+<head>
 	<title>Greg Drake | HPC Systems Admin</title>
 
 	<link rel="icon" href="favicon.ico" type="image/png" />
