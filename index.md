@@ -26,7 +26,7 @@
 		<div class="icons-social">
 			<a target="_blank" href="https://github.com/drakeg"><i class="fab fa-github"></i></a>
 			<a target="_blank" href="https://twitter.com/itgregdrake"><i class="fab fa-twitter"></i></a>
-			<a target="_blank" href="https://dev.to/"><i class="fab fa-dev"></i></a>
+			<a target="_blank" href="https://dev.to/drakeg"><i class="fab fa-dev"></i></a>
 			<a target="_blank" href="https://stackoverflow.com/"><i class="fab fa-stack-overflow"></i></a>
 			<a target="_blank" href="https://www.linkedin.com/in/gregdrake/"><i class="fab fa-linkedin"></i></a>
 			<a target="_blank" href="https://medium.com/"><i class="fab fa-medium"></i></a>
