@@ -1,3 +1,6 @@
+
+[![License](https://img.shields.io/github/license/drakeg/drakeg)](https://github.com/drakeg/drakeg/blob/main/LICENSE)
+
 ### Hi there 👋
 
 <!--
